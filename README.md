@@ -21,3 +21,8 @@ The goal of this project was to explore patterns in workforce demographics and e
 ## Tools Used
 - Microsoft PowerPoint
 - Data analysis concepts
+
+## 📁 Project Structure
+
+- `notebooks/` → Individual data analysis work (R & Python)
+- `ReneeK_Employee_Satisfaction_Analysis.pdf` → Final presentation
