@@ -48,14 +48,14 @@ The dataset includes employee information such as:
 ## Presentation
 
 View the full analysis presentation:
-[Employee Satisfaction Presentation](Employee_Satisfaction_Presentation.pdf)
+[Employee_Satisfaction_Presentation](Employee_Satisfaction_Presentation.pdf)
 
 ---
 
 ## Project Structure
 
 ```
-employee-satisfaction-analysis/
+employee_satisfaction_analysis/
 │
 ├── notebooks/
 ├── README.md
@@ -63,6 +63,10 @@ employee-satisfaction-analysis/
 ```
 
 ---
+## Additional Report
+
+View the full written analysis:
+[Renee's Full Analysis Report](ReneeK_Employee_Satisfaction_Analysis.pdf)
 
 ## About Me
 
