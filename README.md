@@ -1,63 +1,74 @@
 # Employee Satisfaction Analysis
 
-## 📊 Project Overview
-This project analyzes employee age distribution and satisfaction scores across departments and geographic locations (city vs. suburban). The goal is to identify patterns and trends that impact overall employee satisfaction.
+## Overview
+
+This project analyzes employee satisfaction across multiple dimensions, including recruitment source, department, education level, and geographic location (city vs. suburb). The goal is to identify key drivers of employee satisfaction and uncover patterns that can inform hiring and organizational strategies.
 
 ---
 
-## 🎯 Objectives
-- Analyze employee demographics (age distribution)
-- Evaluate satisfaction ratings across employees
-- Identify trends based on location and other factors
-- Provide insights that could support organizational decision-making
+## Objectives
+
+* Analyze how recruitment methods impact employee satisfaction
+* Compare satisfaction levels across departments
+* Evaluate differences between undergraduate and postgraduate employees
+* Identify trends based on geographic location (city vs. suburb)
 
 ---
 
-## 🛠️ Tools & Technologies
-- R (data wrangling & statistical analysis)
-- Python (data analysis & visualization)
-- Tableau (visual dashboards)
-- GitHub (version control & project organization)
+## Dataset
+
+The dataset includes employee information such as:
+
+* Recruitment Type (On-Campus, Referral, Agency, Walk-in)
+* Department (HR, Sales, Marketing, Technology, Purchasing)
+* Education Level (Undergraduate, Postgraduate)
+* Location (City vs. Suburb)
+* Satisfaction Ratings
 
 ---
 
-## 📁 Project Structure
-- `notebooks/` → Individual data analysis work (R & Python)
-- `ReneeK_Employee_Satisfaction_Analysis.pdf` → Final presentation and findings
-- `README.md` → Project documentation
+## Tools & Technologies
+
+* Python (Pandas, NumPy)
+* Data Visualization (Matplotlib / Seaborn)
+* Jupyter Notebook
+* GitHub
 
 ---
 
-## 📈 Key Insights
-- Average employee age: **38.6**
-- Age range: **23–54**
-- Average satisfaction rating: **3.1 / 5**
-- Approximately **50% of employees** reported satisfaction with their current employment
+## Key Findings
+
+* Recruitment source significantly impacts employee satisfaction
+* Referral and On-Campus hires show the highest satisfaction levels
+* Education level influences rating distribution across employees
+* Location (City vs. Suburb) affects employee feedback trends
 
 ---
 
-## 🧠 My Contribution
-This repository contains my individual contributions from a group project. Specifically:
-- Data wrangling and analysis in **R**
-- Data analysis and exploration in **Python**
-- Interpretation of trends and summary insights
+## Presentation
+
+View the full analysis presentation:
+[Employee Satisfaction Presentation](Employee_Satisfaction_Presentation.pdf)
 
 ---
 
-## 🤝 Original Group Project
-This work was originally completed as part of a collaborative academic project.  
-The full group repository can be found here:
+## Project Structure
 
-👉 [Pretty-Nerdy Project Repo](https://github.com/MAG3sty/Pretty-Nerdy-)
-
----
-
-## 🚀 Future Improvements
-- Add interactive dashboards
-- Expand dataset for deeper analysis
-- Apply predictive modeling techniques
+```
+employee-satisfaction-analysis/
+│
+├── notebooks/
+├── README.md
+├── Employee_Satisfaction_Presentation.pdf
+```
 
 ---
 
-## 📬 Contact
-Created by **Renee Kammeyer**  
+## About Me
+
+Renee Kammeyer
+Data Analytics Student, Western Governors University (WGU)
+
+I’m passionate about using data to uncover insights, improve decision-making, and tell meaningful stories through analysis and visualization.
+
+---
