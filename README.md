@@ -1,5 +1,5 @@
 # employee-satisfaction-analysis
-Analysis of employee age distribution and satisfaction scores across departments and geographic locations (city vs. suburban) to itdentify trends and pattersn within the organization.
+Analysis of employee age distribution and satisfaction scores across departments and geographic locations (city vs. suburban) to identify trends and pattersn within the organization.
 # Employee Satisfaction & Demographics Analysis
 
 This project analyzes employee data to identify trends in age and satisfaction across different departments and geographic locations.
